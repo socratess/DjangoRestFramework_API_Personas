@@ -1,6 +1,6 @@
--------------------------------------------------------------------------------Technial_Test_API_Personas-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------Technial_Test_API_Personas-------------------------------------------------
 
-This is a technical test to create a API Persons Management.
+Esta es una prueba tecnica para crear un gestionador de API de personas.
 
 Base de datos: Sqlite3 (ya que se tiene una aplicación pequeña, esta base de datos es idonea, en caso que se escale a una aplicación más grande, se realiaría el cambio de base de datos)
 Framework: Django Rest FrameWork (DRF)
