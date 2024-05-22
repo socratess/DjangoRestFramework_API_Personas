@@ -31,7 +31,10 @@ El script el cual se hizó mención previamente se llama data.py
 -Correo
   ![image](https://github.com/socratess/Technial_Test_API_Personas/assets/25992143/8da9f3e2-14f7-4e9c-8d31-1d6196c30f1f)
 
-4) Realizar una api que me entrege un GET, POST, GET/ID
+![image](https://github.com/socratess/Technial_Test_API_Personas/assets/25992143/7fb3b82c-4504-4e7d-8229-da6b2637d9f9)
+
+
+5) Realizar una api que me entrege un GET, POST, GET/ID
    ![image](https://github.com/socratess/Technial_Test_API_Personas/assets/25992143/5f29f91a-a9da-43a7-8ac6-edcafe85fc40)
 
 GET:
