@@ -9,12 +9,15 @@ Framework: Django Rest FrameWork (DRF)
 R/= Para este punto se crea un script el cual al inicia la aplicación, en este caso, cada vez que ejecutamos py manage.py runserver, se ejecuta este script cargando la la base de datos con 100 registro. Para obtener la información de los registro se utilizo del pacuete Faker.
 
  Antes de iniciar la aplicación
+ 
  ![image](https://github.com/socratess/Technial_Test_API_Personas/assets/25992143/af370a68-5d9b-4567-b095-2a317b3aa582)
 
  Al iniciar la aplicación
+ 
 ![image](https://github.com/socratess/Technial_Test_API_Personas/assets/25992143/a357409e-1c3a-4f8f-b6d7-72032796ddc9)
 
 Despues de iniciar la aplicación
+
 ![image](https://github.com/socratess/Technial_Test_API_Personas/assets/25992143/4317bcd4-624c-4732-b4ec-cdb396e2fae4)
 
 El script el cual se hizó mención previamente se llama data.py
